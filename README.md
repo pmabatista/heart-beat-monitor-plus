@@ -45,6 +45,17 @@ _Funcionalidades implementadas:_
 
 `yarn dev`
 
+### Exemplo de criação de leitura:
+
+***Endpoint:*** `/api/v1/hearbeat - POST` 
+
+***Payload:***
+```` json
+{
+    "milliseconds": 3000
+}
+````
+
 ### Arquitetura
 
 ![Arquitetura](./assets/architecture.png)
