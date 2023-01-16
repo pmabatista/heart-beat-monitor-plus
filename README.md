@@ -4,7 +4,7 @@ API responsável por gravar leitura de aparelho de batimentos cardíacos e prove
 
 _Funcionalidades implementadas:_
 - Criar Batimento Cardíaco.
-- Lista análises de batimento cardíaco.
+- Listar análises de batimento cardíaco.
 
 ## 🔗 URL
 
