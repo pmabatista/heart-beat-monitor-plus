@@ -39,9 +39,9 @@ _Funcionalidades implementadas:_
 
 ### Como executar:
 
-`yarn run migrate`
-
 `yarn install`
+
+`yarn run migrate`
 
 `yarn dev`
 
